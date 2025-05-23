@@ -1,9 +1,9 @@
 # sponge_clone
 
-## Research Projects
+## 研究项目
 
-This repository contains research projects on various topics.
+本存储库包含关于各种主题的研究项目。
 
-### Current Research Projects:
+### 当前研究项目:
 
-- [AlphaEvolve](./research/alphaevolve/README.md) - Research on Google DeepMind's AlphaEvolve, an AI system that automatically discovers new algorithms.
+- [AlphaEvolve](./research/alphaevolve/README.md) - 关于Google DeepMind的AlphaEvolve的研究，这是一个能自动发现新算法的AI系统。

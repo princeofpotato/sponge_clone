@@ -1,7 +1,7 @@
-# AlphaEvolve Research
+# AlphaEvolve 研究
 
-This directory contains research materials on AlphaEvolve, a groundbreaking AI system developed by Google DeepMind.
+本目录包含关于AlphaEvolve的研究材料，AlphaEvolve是由Google DeepMind开发的一个突破性AI系统。
 
-## Contents
+## 内容
 
-- [AlphaEvolve Presentation](./alphaevolve_presentation.md) - A comprehensive presentation on AlphaEvolve, suitable for a 20-minute talk.
+- [AlphaEvolve演示文稿](./alphaevolve_presentation.md) - 关于AlphaEvolve的综合演示文稿，适用于20分钟的讲座。
