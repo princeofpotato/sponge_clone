@@ -1,6 +1,6 @@
 # AlphaEvolve演示文稿的图片
 
-本目录包含以下用于AlphaEvolve演示文稿的图片：
+本目录包含以下用于AlphaEvolve演示文稿的原始英文图片：
 
 1. `alphaevolve_concept.png` - AlphaEvolve的概念插图，展示系统如何通过迭代过程自动发现算法
 2. `automl_timeline.png` - AutoML技术发展时间线，从2010年代早期到2020年AlphaEvolve的出现
@@ -10,4 +10,4 @@
 6. `future_directions.png` - AlphaEvolve未来研究方向，包括四大发展路线及其具体研究重点
 7. `conclusion.png` - 总结AlphaEvolve的技术创新、应用领域和未来影响
 
-*注：这些图片已进行优化设计，使用中文内容并改进了排版，以提供更好的视觉呈现和更清晰的内容理解。每个图片在演示文稿中配有详细的文字描述，确保内容的完整可读性。*
+*注：这些图片当前保留原始英文内容，但在演示文稿中配有详细的中文文字描述，确保内容的完整可读性。未来将计划提供完整的中文图片版本。*
