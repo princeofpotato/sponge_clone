@@ -1,5 +1,5 @@
 """
-CellFM: Cell Function Modeling framework based on MindSpore
+CellFM: A large-scale foundation model pre-trained on transcriptomics of 100 million human cells
 """
 
 __version__ = '0.1.0'
